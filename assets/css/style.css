@@ -319,11 +319,12 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") center;
   background-size: cover;
+  position: relative;
 }
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.65) center;
+  background: rgba(0, 0, 0, 0.65);
   position: absolute;
   bottom: 0;
   top: 0;

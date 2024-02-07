@@ -1,6 +1,1 @@
 Welcome to Chanelle Huang's Resume Website!
-
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
